@@ -1,4 +1,4 @@
-// 'use client'
+'use client'
 
 import React, { DO_NOT_USE_OR_YOU_WILL_BE_FIRED_EXPERIMENTAL_REACT_NODES, ReactNode } from 'react'
 import { config, projectId } from '../config'
